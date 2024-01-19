@@ -1,4 +1,4 @@
-# mongodb get started
+# Mongo db get started
 
 
 ### Étape 1: Installation de MongoDB
