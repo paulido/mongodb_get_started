@@ -73,5 +73,4 @@ Dans le shell MongoDB, déconnectez-vous en utilisant la commande suivante :
    exit
    ```
 
-Ceci conclut le tutoriel de démarrage rapide pour MongoDB. Ces étapes de base vous aideront à créer une base de données, à insérer des données, à effectuer des recherches et à supprimer des données dans MongoDB. Vous pouvez également explorer davantage les fonctionnalités avancées de MongoDB en consultant la documentation officielle.
 
