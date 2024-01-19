@@ -1,6 +1,5 @@
 # mongodb get started
 
-Bien sûr, voici un tutoriel de démarrage rapide pour MongoDB. Nous allons couvrir l'installation, la création d'une base de données, l'insertion de données, la recherche et la suppression. Assurez-vous d'avoir MongoDB installé sur votre machine avant de commencer.
 
 ### Étape 1: Installation de MongoDB
 
