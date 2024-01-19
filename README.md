@@ -203,6 +203,3 @@ Dans le shell MongoDB, déconnectez-vous en utilisant la commande suivante :
      mongosec
      ```
 
-Ces étapes devraient contribuer à optimiser les performances et à renforcer la sécurité de votre installation MongoDB. Veillez à adapter ces instructions en fonction de votre environnement spécifique et des besoins de votre application.
-
-
